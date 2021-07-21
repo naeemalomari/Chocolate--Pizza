@@ -7,6 +7,7 @@
     height: 43px;
 }
 #h1{
+    font-family: 'Caveat', cursive;
    display: inline-block;
    position: relative;
    bottom: 40px;
@@ -130,4 +131,33 @@ footer p{
     position: relative;
     left: 90px;
     bottom: 135px;
+}
+
+a{
+    background-color:orangered;
+margin: 20px;
+    padding: 20px;
+    color: white;
+    text-decoration-line: none;
+    position: relative;
+    left: 1000px;
+bottom: 200px;
+}
+footer div img {
+
+position: relative;
+bottom: 100px;
+left: 500px
+}
+footer div n{
+    position: relative;
+bottom: 80px;
+left: 300px;
+    color:grey ;
+}
+footer div r{
+    position: relative;
+    bottom: 80px;
+    left: 400px;
+        color:grey ;
 }
