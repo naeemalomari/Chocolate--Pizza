@@ -1,0 +1,133 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+#logo{
+    /* width: 35px; */
+    height: 43px;
+}
+#h1{
+   display: inline-block;
+   position: relative;
+   bottom: 40px;
+   right: 37px;
+
+}
+#p{
+    position: relative;
+    bottom: 85px;
+    left: 45px;
+}
+#right{ 
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 950px;
+}
+body header article {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 1135px;
+    bottom: 28px;
+}
+#fb{
+    margin: 0px;
+    padding: 0px;
+}
+#twit{
+    margin: 0px;
+    padding: 0px;
+}
+#gm{
+    margin: 0px;
+    padding: 0px;
+}
+#inst{
+    margin: 0px;
+    padding: 0px;
+}
+#double{
+    margin: 0px;
+    padding: 0px;
+}
+#print{
+    margin: 0px;
+    padding: 0px;
+}
+#wifi{
+    margin: 0px;
+    padding: 0px;
+}
+#email{
+    margin: 0px;
+    padding: 0px;
+}
+#allRight{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 150px;
+}
+#space{
+
+background-image: url(/images/hr-img.png);
+position: relative;
+bottom: 150px;
+}
+main{
+    position: relative;
+    bottom: 100px;
+}
+#form1{
+
+    position: relative;
+    bottom: 380px;
+    left: 50px;
+}
+#line2{
+    position: relative;
+    top: 30px;
+    right: 180px;
+}
+#line3{
+    position: relative;
+    top: 60px;
+    right: 385px;
+}
+#line4{
+    position: relative;
+    top: 90px;
+    right: 566px;
+}
+#line5{
+    position: relative;
+    top: 120px;
+    right: 791px;
+}
+
+#line6{
+    position: relative;
+    top: 150px;
+    right: 1007px;
+}
+#hr{
+/* height: 100%; */
+    background-image: url(/images/hr-img.png);
+position: relative;
+bottom: 70px;
+}
+footer{
+    position: relative;
+    bottom: 180px;
+}
+footer h2{
+    position: relative;
+    left: 90px;
+    bottom: 115px;
+}
+footer p{
+    position: relative;
+    left: 90px;
+    bottom: 135px;
+}
