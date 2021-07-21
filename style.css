@@ -15,9 +15,11 @@
 
 }
 #p{
+    font-size: small;
     position: relative;
     bottom: 85px;
     left: 45px;
+    color: grey;
 }
 #right{ 
     margin: 0px;
@@ -160,4 +162,22 @@ footer div r{
     bottom: 80px;
     left: 400px;
         color:grey ;
+}
+#h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#p1{
+    color: grey;
+    font-size: small;
+    position: relative;
+    bottom: 30px;
+}
+#hero {
+    width: 100%;
+
+}
+#print{
+    position: relative;
+    left: 1180px;
+    bottom: 70px;
 }
